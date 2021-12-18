@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ketab</string>
+    <string name="Inf">Bookname and Information
+    Semi-Invasive
+ECoG
+Electrocorticography uses electrodes placed on the exposed surface of the brain to measure electrical activity from the cerebral cortex. It is called semi-invasive but it still requires a craniotomy to implant the electrodes. For this reason it is used only when surgery is necessary for medical reasons (epilepsy for example).
+The electrodes may be placed outside the dura mater (epidural) or under the dura mater (subdural). The strip or grid electrodes covers a large area of the cortex (from 4 to 256 electrodes)(2), allowing a diverse range of cognitive studies.
+The positive characteristics of ECoG are:
+•	high spatial resolution and signal fidelity
+•	resistance to noise
+•	lower clinical risk and Robustness over long recording period[1]
+•	higher amplitude
+
+There have been different studies about the use of ECoG in BCI, but they are all limited to cases where surgery was needed to remove an epileptic focus.
+</string>
+    <string name="name">Bookname</string>
+
+</resources>
